@@ -6,7 +6,7 @@ let cachFiles = [
     "lessons.js",
     "lessons.json",
     "lessons.webmanifest",
-    "service-worker1.js",
+    
 
     "images/english.png",
     "images/french.png",
